@@ -2,17 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://gonmay.com/</loc>
-    <lastmod>2026-05-13</lastmod>
+    <lastmod>2026-05-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://gonmay.com/about/</loc>
-    <lastmod>2026-05-13</lastmod>
+    <lastmod>2026-05-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
+  <url>
+    <loc>https://gonmay.com/post/206/el-falso-refugio-de-la-experiencia-ontologica-por-que-el-humano-aun-importa/</loc>
+    <lastmod>2026-05-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
   <url>
     <loc>https://gonmay.com/post/199/automatizacion-cognitiva-el-fin-de-la-economia-de-la-escasez/</loc>
     <lastmod>2026-05-12</lastmod>
