@@ -6,9 +6,17 @@
     <description>Exploración de la condición humana frente al avance algorítmico.</description>
     <language>es-ES</language>
     <atom:link href="https://gonmay.com/rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 14 May 2026 16:18:28 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 11:32:42 GMT</lastBuildDate>
     <managingEditor>contacto@gonmay.com (P. Anthony Gonmay)</managingEditor>
     
+  <item>
+    <title><![CDATA[El mito del emprendedor algorítmico: por qué la IA no democratiza el poder]]></title>
+    <link>https://gonmay.com/post/349/el-mito-del-emprendedor-algoritmico-por-que-la-ia-no-democratiza-el-poder/</link>
+    <guid isPermaLink="true">https://gonmay.com/post/349/el-mito-del-emprendedor-algoritmico-por-que-la-ia-no-democratiza-el-poder/</guid>
+    <pubDate>Sat, 16 May 2026 00:00:00 GMT</pubDate>
+    <description><![CDATA[El avance de la IA reduce el espacio de ventaja humana irreducible: generar ideas creativas, evaluar estrategias complejas y construir relaciones de confianza serán pronto algorítmicamente replicables. El beneficio empresarial se concentra entonces en dos fuentes: datos propietarios y modelos de fro...]]></description>
+    <category><![CDATA[AI, economics, power, democratization, capitalism]]></category>
+  </item>
   <item>
     <title><![CDATA[El falso refugio de la experiencia ontológica: por qué el humano aún importa]]></title>
     <link>https://gonmay.com/post/206/el-falso-refugio-de-la-experiencia-ontologica-por-que-el-humano-aun-importa/</link>
