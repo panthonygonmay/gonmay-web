@@ -6,9 +6,17 @@
     <description>Exploración de la condición humana frente al avance algorítmico.</description>
     <language>es-ES</language>
     <atom:link href="https://gonmay.com/rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 16 May 2026 11:32:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 12:51:07 GMT</lastBuildDate>
     <managingEditor>contacto@gonmay.com (P. Anthony Gonmay)</managingEditor>
     
+  <item>
+    <title><![CDATA[La renta de infraestructura cognitiva: El nuevo poder que decide quién innova y quién obedece]]></title>
+    <link>https://gonmay.com/post/183/la-renta-de-infraestructura-cognitiva-el-nuevo-poder-que-decide-quien-innova-y-quien-obedece/</link>
+    <guid isPermaLink="true">https://gonmay.com/post/183/la-renta-de-infraestructura-cognitiva-el-nuevo-poder-que-decide-quien-innova-y-quien-obedece/</guid>
+    <pubDate>Tue, 19 May 2026 00:00:00 GMT</pubDate>
+    <description><![CDATA[La concentración de chips no es solo técnica: es política. Quien decide a quién venderlos decide quién tiene permiso para desarrollar inteligencia artificial avanzada. Esta concentración material crea una nueva renta económica. No es la renta del suelo de Ricardo ni la renta del monopolio de Schumpe...]]></description>
+    <category><![CDATA[cognitive infrastructure rent, AI monopoly, power concentration, prediction, innovation, algorithmic optimization]]></category>
+  </item>
   <item>
     <title><![CDATA[El mito del emprendedor algorítmico: por qué la IA no democratiza el poder]]></title>
     <link>https://gonmay.com/post/349/el-mito-del-emprendedor-algoritmico-por-que-la-ia-no-democratiza-el-poder/</link>
