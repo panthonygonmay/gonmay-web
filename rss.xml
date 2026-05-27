@@ -6,9 +6,17 @@
     <description>Exploración de la condición humana frente al avance algorítmico.</description>
     <language>es-ES</language>
     <atom:link href="https://gonmay.com/rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 23 May 2026 09:18:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 10:25:32 GMT</lastBuildDate>
     <managingEditor>contacto@gonmay.com (P. Anthony Gonmay)</managingEditor>
     
+  <item>
+    <title><![CDATA[Dividendo algorítmico: ¿supervivencia o sumisión?]]></title>
+    <link>https://gonmay.com/post/221/dividendo-algoritmico-supervivencia-o-sumision/</link>
+    <guid isPermaLink="true">https://gonmay.com/post/221/dividendo-algoritmico-supervivencia-o-sumision/</guid>
+    <pubDate>Tue, 26 May 2026 00:00:00 GMT</pubDate>
+    <description><![CDATA[Para que el fideicomiso no sea otra burocracia rentista, la arquitectura debe basarse en la transparencia funcional y la portabilidad radical. No se trata de crear un "Ministerio de los Datos", sino de implementar protocolos que rompan la histéresis institucional: ese desfase donde el valor fluye en...]]></description>
+    <category><![CDATA[algoritmos, redistribución, renta algorítmica, eficiencia, resiliencia, capital humano]]></category>
+  </item>
   <item>
     <title><![CDATA[Colonización Epistémica: Cómo los Modelos se Apoderan de tu Racionalidad Empresarial]]></title>
     <link>https://gonmay.com/post/379/colonizacion-epistemica-como-los-modelos-se-apoderan-de-tu-racionalidad-empresarial/</link>
