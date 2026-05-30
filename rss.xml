@@ -6,9 +6,17 @@
     <description>Exploración de la condición humana frente al avance algorítmico.</description>
     <language>es-ES</language>
     <atom:link href="https://gonmay.com/rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 28 May 2026 14:55:28 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 09:32:11 GMT</lastBuildDate>
     <managingEditor>contacto@gonmay.com (P. Anthony Gonmay)</managingEditor>
     
+  <item>
+    <title><![CDATA[La muerte del management: cómo la IA aniquila la autoridad informacional]]></title>
+    <link>https://gonmay.com/post/333/la-muerte-del-management-como-la-ia-aniquila-la-autoridad-informacional/</link>
+    <guid isPermaLink="true">https://gonmay.com/post/333/la-muerte-del-management-como-la-ia-aniquila-la-autoridad-informacional/</guid>
+    <pubDate>Sat, 30 May 2026 00:00:00 GMT</pubDate>
+    <description><![CDATA[El management clásico muere. Su función central —reducir incertidumbre mediante el filtrado jerárquico de información— es ahora realizada más eficientemente por sistemas algorítmicos. El orden interpretativo que producía, aunque funcional, era en parte ilusorio, y la IA expone esa ilusión. La asimet...]]></description>
+    <category><![CDATA[management, AI, authority, transformation, information asymmetry]]></category>
+  </item>
   <item>
     <title><![CDATA[El aburrimiento como revolución ontológica contra la felicidad administrada]]></title>
     <link>https://gonmay.com/post/42/el-aburrimiento-como-revolucion-ontologica-contra-la-felicidad-administrada/</link>
