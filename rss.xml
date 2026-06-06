@@ -6,9 +6,17 @@
     <description>Exploración de la condición humana frente al avance algorítmico.</description>
     <language>es-ES</language>
     <atom:link href="https://gonmay.com/rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 04 Jun 2026 12:34:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 09:49:20 GMT</lastBuildDate>
     <managingEditor>contacto@gonmay.com (P. Anthony Gonmay)</managingEditor>
     
+  <item>
+    <title><![CDATA[La tiranía de los algoritmos: cuando la eficiencia oculta la discriminación sistémica]]></title>
+    <link>https://gonmay.com/post/380/la-tirania-de-los-algoritmos-cuando-la-eficiencia-oculta-la-discriminacion-sistemica/</link>
+    <guid isPermaLink="true">https://gonmay.com/post/380/la-tirania-de-los-algoritmos-cuando-la-eficiencia-oculta-la-discriminacion-sistemica/</guid>
+    <pubDate>Sat, 06 Jun 2026 00:00:00 GMT</pubDate>
+    <description><![CDATA[Ningún actuario humano podría detectar. La empresa comienza a confiar en estas evaluaciones, ajustando sus primas y su selección de riesgos según las recomendaciones del modelo. Con el tiempo, la empresa descubre que su cartera de seguros se ha vuelto más rentable, pero también más homogénea: está a...]]></description>
+    <category><![CDATA[discriminación algorítmica, sesgo sistémico, dependencia cognitiva, poder corporativo, algoritmos opacos]]></category>
+  </item>
   <item>
     <title><![CDATA[El fin de la empresa como la conocemos: cuando la IA elimina la necesidad de jerarquías]]></title>
     <link>https://gonmay.com/post/268/el-fin-de-la-empresa-como-la-conocemos-cuando-la-ia-elimina-la-necesidad-de-jerarquias/</link>
