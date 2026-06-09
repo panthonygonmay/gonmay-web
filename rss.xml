@@ -6,9 +6,17 @@
     <description>Exploración de la condición humana frente al avance algorítmico.</description>
     <language>es-ES</language>
     <atom:link href="https://gonmay.com/rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 06 Jun 2026 09:49:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 12:27:40 GMT</lastBuildDate>
     <managingEditor>contacto@gonmay.com (P. Anthony Gonmay)</managingEditor>
     
+  <item>
+    <title><![CDATA[La IA invierte a Hayek: del conocimiento tácito a la inferencia centralizada]]></title>
+    <link>https://gonmay.com/post/312/la-ia-invierte-a-hayek-del-conocimiento-tacito-a-la-inferencia-centralizada/</link>
+    <guid isPermaLink="true">https://gonmay.com/post/312/la-ia-invierte-a-hayek-del-conocimiento-tacito-a-la-inferencia-centralizada/</guid>
+    <pubDate>Tue, 09 Jun 2026 00:00:00 GMT</pubDate>
+    <description><![CDATA[La confusión entre lo que no se puede hacer y lo que no se sabe cómo hacer ha mantenido viva la jerarquía managerial mucho después de que su utilidad comenzara a erosionarse. La IA no invalida completamente este argumento, pero lo invierte en aspectos cruciales. Lo que la IA puede hacer no es centra...]]></description>
+    <category><![CDATA[Hayek, IA, conocimiento tácito, jerarquía managerial, inferencia]]></category>
+  </item>
   <item>
     <title><![CDATA[La tiranía de los algoritmos: cuando la eficiencia oculta la discriminación sistémica]]></title>
     <link>https://gonmay.com/post/380/la-tirania-de-los-algoritmos-cuando-la-eficiencia-oculta-la-discriminacion-sistemica/</link>
