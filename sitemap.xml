@@ -2,17 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://gonmay.com/</loc>
-    <lastmod>2026-06-09</lastmod>
+    <lastmod>2026-06-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://gonmay.com/about/</loc>
-    <lastmod>2026-06-09</lastmod>
+    <lastmod>2026-06-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
+  <url>
+    <loc>https://gonmay.com/post/266/la-erosion-del-expertise-cuando-la-ia-elimina-la-friccion-necesaria-para-aprender/</loc>
+    <lastmod>2026-06-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
   <url>
     <loc>https://gonmay.com/post/312/la-ia-invierte-a-hayek-del-conocimiento-tacito-a-la-inferencia-centralizada/</loc>
     <lastmod>2026-06-09</lastmod>

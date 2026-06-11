@@ -6,9 +6,17 @@
     <description>Exploración de la condición humana frente al avance algorítmico.</description>
     <language>es-ES</language>
     <atom:link href="https://gonmay.com/rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 09 Jun 2026 12:27:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 17:01:59 GMT</lastBuildDate>
     <managingEditor>contacto@gonmay.com (P. Anthony Gonmay)</managingEditor>
     
+  <item>
+    <title><![CDATA[La erosión del expertise: cuando la IA elimina la fricción necesaria para aprender]]></title>
+    <link>https://gonmay.com/post/266/la-erosion-del-expertise-cuando-la-ia-elimina-la-friccion-necesaria-para-aprender/</link>
+    <guid isPermaLink="true">https://gonmay.com/post/266/la-erosion-del-expertise-cuando-la-ia-elimina-la-friccion-necesaria-para-aprender/</guid>
+    <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
+    <description><![CDATA[La empresa necesita humanos con juicio contextual, pero la IA elimina las condiciones bajo las cuales ese juicio se desarrolla. Un ingeniero novato ya no tiene la oportunidad de cometer errores de diseño porque la IA corrige sus decisiones antes de que se materialicen. Un analista financiero junior ...]]></description>
+    <category><![CDATA[IA, expertise, aprendizaje, fricción, eficiencia, empresa post-laboral]]></category>
+  </item>
   <item>
     <title><![CDATA[La IA invierte a Hayek: del conocimiento tácito a la inferencia centralizada]]></title>
     <link>https://gonmay.com/post/312/la-ia-invierte-a-hayek-del-conocimiento-tacito-a-la-inferencia-centralizada/</link>
