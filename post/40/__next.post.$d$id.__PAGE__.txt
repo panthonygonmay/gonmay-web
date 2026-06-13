@@ -2,5 +2,5 @@
 2:I[79860,["/_next/static/chunks/00tg~1tsrgw3h.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/04qruroy2t5ae.js"],"default"]
 3:I[97367,["/_next/static/chunks/00tg~1tsrgw3h.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"url":"/post/40/la-felicidad-administrada-cuando-el-proposito-es-el-enemigo-del-algoritmo/"}],[["$","script","script-0",{"src":"/_next/static/chunks/04qruroy2t5ae.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"fL5YTjGVibdKxCBeE72VO"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"url":"/post/40/la-felicidad-administrada-cuando-el-proposito-es-el-enemigo-del-algoritmo/"}],[["$","script","script-0",{"src":"/_next/static/chunks/04qruroy2t5ae.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"grbXr8BWqjx2mta6BvM_H"}
 5:null
