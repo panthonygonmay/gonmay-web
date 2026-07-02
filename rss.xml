@@ -6,9 +6,17 @@
     <description>Exploración de la condición humana frente al avance algorítmico.</description>
     <language>es-ES</language>
     <atom:link href="https://gonmay.com/rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 30 Jun 2026 06:32:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 06:09:38 GMT</lastBuildDate>
     <managingEditor>contacto@gonmay.com (P. Anthony Gonmay)</managingEditor>
     
+  <item>
+    <title><![CDATA[La externalización de la inteligencia: cuando tu empresa ya no sabe pensar sin IA]]></title>
+    <link>https://gonmay.com/post/374/la-externalizacion-de-la-inteligencia-cuando-tu-empresa-ya-no-sabe-pensar-sin-ia/</link>
+    <guid isPermaLink="true">https://gonmay.com/post/374/la-externalizacion-de-la-inteligencia-cuando-tu-empresa-ya-no-sabe-pensar-sin-ia/</guid>
+    <pubDate>Thu, 02 Jul 2026 00:00:00 GMT</pubDate>
+    <description><![CDATA[La empresa ha externalizado no solo la capacidad de inferencia, sino la arquitectura de la decisión misma. Sus equipos de gestión han aprendido a trabajar con las recomendaciones del modelo, a interpretar sus outputs, a confiar en sus predicciones. Los procesos de aprobación, los comités de inversió...]]></description>
+    <category><![CDATA[filosofía de la tecnología, inteligencia artificial, dependencia tecnológica, trabajo, sociedad, externalización cognitiva]]></category>
+  </item>
   <item>
     <title><![CDATA[El arte de olvidar: por qué las organizaciones necesitan amnesia selectiva]]></title>
     <link>https://gonmay.com/post/256/el-arte-de-olvidar-por-que-las-organizaciones-necesitan-amnesia-selectiva/</link>
