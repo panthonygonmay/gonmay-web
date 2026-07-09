@@ -2,17 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://gonmay.com/</loc>
-    <lastmod>2026-07-07</lastmod>
+    <lastmod>2026-07-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://gonmay.com/about/</loc>
-    <lastmod>2026-07-07</lastmod>
+    <lastmod>2026-07-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
+  <url>
+    <loc>https://gonmay.com/post/16/la-ia-como-esterilizadora-de-la-inteligencia-humana-cuando-el-experto-olvida-el-camino/</loc>
+    <lastmod>2026-07-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
   <url>
     <loc>https://gonmay.com/post/110/el-derecho-a-la-mediocridad-la-tirania-del-sentido-en-la-era-del-homo-spiritus/</loc>
     <lastmod>2026-07-07</lastmod>
