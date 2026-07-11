@@ -6,9 +6,17 @@
     <description>Exploración de la condición humana frente al avance algorítmico.</description>
     <language>es-ES</language>
     <atom:link href="https://gonmay.com/rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 09 Jul 2026 06:15:14 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 05:22:18 GMT</lastBuildDate>
     <managingEditor>contacto@gonmay.com (P. Anthony Gonmay)</managingEditor>
     
+  <item>
+    <title><![CDATA[La IA te miente con placebo: La falsa transparencia de la explicabilidad local]]></title>
+    <link>https://gonmay.com/post/382/la-ia-te-miente-con-placebo-la-falsa-transparencia-de-la-explicabilidad-local/</link>
+    <guid isPermaLink="true">https://gonmay.com/post/382/la-ia-te-miente-con-placebo-la-falsa-transparencia-de-la-explicabilidad-local/</guid>
+    <pubDate>Sat, 11 Jul 2026 00:00:00 GMT</pubDate>
+    <description><![CDATA[La explicabilidad local en modelos de inteligencia artificial genera una circularidad epistémica donde la validación del modelo depende del propio modelo, un problema que la literatura sobre explicabilidad rara vez aborda con profundidad. Más peligrosa aún: crea una ilusión de comprensión que desali...]]></description>
+    <category><![CDATA[explicabilidad, IA, sesgo cognitivo, ilusión de comprensión, filosofía de la IA]]></category>
+  </item>
   <item>
     <title><![CDATA[La IA como esterilizadora de la inteligencia humana: cuando el experto olvida el camino]]></title>
     <link>https://gonmay.com/post/16/la-ia-como-esterilizadora-de-la-inteligencia-humana-cuando-el-experto-olvida-el-camino/</link>
