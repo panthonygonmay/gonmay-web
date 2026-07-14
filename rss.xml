@@ -6,9 +6,17 @@
     <description>Exploración de la condición humana frente al avance algorítmico.</description>
     <language>es-ES</language>
     <atom:link href="https://gonmay.com/rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 11 Jul 2026 05:22:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 05:09:41 GMT</lastBuildDate>
     <managingEditor>contacto@gonmay.com (P. Anthony Gonmay)</managingEditor>
     
+  <item>
+    <title><![CDATA[La máquina de la verdad: ¿quién valida al validador algorítmico?]]></title>
+    <link>https://gonmay.com/post/339/la-maquina-de-la-verdad-quien-valida-al-validador-algoritmico/</link>
+    <guid isPermaLink="true">https://gonmay.com/post/339/la-maquina-de-la-verdad-quien-valida-al-validador-algoritmico/</guid>
+    <pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
+    <description><![CDATA[La asimetría de información entre quien produce el output algorítmico y quien lo consume es el fundamento de la empresa algorítmica. Los costes de validación que la IA pretendía eliminar reaparecen cuando el cliente no puede verificar el informe por sí mismo. Delegar la validación en la empresa, que...]]></description>
+    <category><![CDATA[algorítmico, validación, asimetría, información, responsabilidad, empresa]]></category>
+  </item>
   <item>
     <title><![CDATA[La IA te miente con placebo: La falsa transparencia de la explicabilidad local]]></title>
     <link>https://gonmay.com/post/382/la-ia-te-miente-con-placebo-la-falsa-transparencia-de-la-explicabilidad-local/</link>
