@@ -6,9 +6,17 @@
     <description>Exploración de la condición humana frente al avance algorítmico.</description>
     <language>es-ES</language>
     <atom:link href="https://gonmay.com/rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 21 Jul 2026 05:29:47 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 05:33:59 GMT</lastBuildDate>
     <managingEditor>contacto@gonmay.com (P. Anthony Gonmay)</managingEditor>
     
+  <item>
+    <title><![CDATA[El fin de la clase media cognitiva: cómo la IA elimina el trabajo intermedio del conocimiento]]></title>
+    <link>https://gonmay.com/post/291/el-fin-de-la-clase-media-cognitiva-como-la-ia-elimina-el-trabajo-intermedio-del-conocimiento/</link>
+    <guid isPermaLink="true">https://gonmay.com/post/291/el-fin-de-la-clase-media-cognitiva-como-la-ia-elimina-el-trabajo-intermedio-del-conocimiento/</guid>
+    <pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
+    <description><![CDATA[En el otro extremo, están los trabajadores que realizan tareas operativas de supervisión de IA —validación de outputs, corrección de errores, ajuste de parámetros— que requieren habilidades técnicas pero no expertise profundo en el dominio. Esta polarización no es temporal; es consecuencia de la asi...]]></description>
+    <category><![CDATA[AI, trabajo, clase media, polarización, automatización]]></category>
+  </item>
   <item>
     <title><![CDATA[El péndulo de la automatización: entre la promesa vacía y la fractura social]]></title>
     <link>https://gonmay.com/post/158/el-pendulo-de-la-automatizacion-entre-la-promesa-vacia-y-la-fractura-social/</link>
