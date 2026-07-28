@@ -2,17 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://gonmay.com/</loc>
-    <lastmod>2026-07-25</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://gonmay.com/about/</loc>
-    <lastmod>2026-07-25</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
+  <url>
+    <loc>https://gonmay.com/post/197/el-ultimo-refugio-ser-impredecible-en-un-mundo-que-todo-lo-predice/</loc>
+    <lastmod>2026-07-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
   <url>
     <loc>https://gonmay.com/post/69/la-condena-de-la-finitud-por-que-la-ia-nunca-podra-amar-ni-morir/</loc>
     <lastmod>2026-07-25</lastmod>
