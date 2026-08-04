@@ -6,9 +6,17 @@
     <description>Exploración de la condición humana frente al avance algorítmico.</description>
     <language>es-ES</language>
     <atom:link href="https://gonmay.com/rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 01 Aug 2026 05:35:45 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 05:25:03 GMT</lastBuildDate>
     <managingEditor>contacto@gonmay.com (P. Anthony Gonmay)</managingEditor>
     
+  <item>
+    <title><![CDATA[La era de la dependencia epistémica: cómo los modelos fundacionales destruyen la agencia organizacional]]></title>
+    <link>https://gonmay.com/post/375/la-era-de-la-dependencia-epistemica-como-los-modelos-fundacionales-destruyen-la-agencia-organizacional/</link>
+    <guid isPermaLink="true">https://gonmay.com/post/375/la-era-de-la-dependencia-epistemica-como-los-modelos-fundacionales-destruyen-la-agencia-organizacional/</guid>
+    <pubDate>Tue, 04 Aug 2026 00:00:00 GMT</pubDate>
+    <description><![CDATA[En la era de los modelos fundacionales, la situación es radicalmente diferente. La capacidad de juicio — la inferencia que convierte datos en decisiones — ha sido transferida al modelo. Los gerentes ya no juzgan; validan. Ya no deciden; confirman. La organización ha perdido la capacidad de generar i...]]></description>
+    <category><![CDATA[foundation models, epistemic dependency, organizational agency, decision-making, AI management]]></category>
+  </item>
   <item>
     <title><![CDATA[La fábrica interior: cuando la escasez devora tu identidad]]></title>
     <link>https://gonmay.com/post/8/la-fabrica-interior-cuando-la-escasez-devora-tu-identidad/</link>
