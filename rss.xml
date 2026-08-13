@@ -6,9 +6,17 @@
     <description>Exploración de la condición humana frente al avance algorítmico.</description>
     <language>es-ES</language>
     <atom:link href="https://gonmay.com/rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 11 Aug 2026 03:55:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 04:20:44 GMT</lastBuildDate>
     <managingEditor>contacto@gonmay.com (P. Anthony Gonmay)</managingEditor>
     
+  <item>
+    <title><![CDATA[Renta cognitiva diferida: la verdadera explotación de la IA moderna]]></title>
+    <link>https://gonmay.com/post/434/renta-cognitiva-diferida-la-verdadera-explotacion-de-la-ia-moderna/</link>
+    <guid isPermaLink="true">https://gonmay.com/post/434/renta-cognitiva-diferida-la-verdadera-explotacion-de-la-ia-moderna/</guid>
+    <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
+    <description><![CDATA[Consideremos el caso de un modelo de lenguaje grande como GPT-4. Este modelo fue entrenado con cantidades masivas de texto generado por humanos: libros, artículos, conversaciones, código, foros de discusión. Millones de personas contribuyeron, sin saberlo y sin compensación directa, a la creación de...]]></description>
+    <category><![CDATA[inteligencia artificial, explotación laboral, capitalismo cognitivo, renta cognitiva, ética tecnológica]]></category>
+  </item>
   <item>
     <title><![CDATA[El poder detrás del código: ¿política o algoritmo?]]></title>
     <link>https://gonmay.com/post/170/el-poder-detras-del-codigo-politica-o-algoritmo/</link>
