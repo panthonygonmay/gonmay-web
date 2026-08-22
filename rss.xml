@@ -6,9 +6,17 @@
     <description>Exploración de la condición humana frente al avance algorítmico.</description>
     <language>es-ES</language>
     <atom:link href="https://gonmay.com/rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 20 Aug 2026 03:09:39 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 03:07:08 GMT</lastBuildDate>
     <managingEditor>contacto@gonmay.com (P. Anthony Gonmay)</managingEditor>
     
+  <item>
+    <title><![CDATA[La paradoja de la supervisión epistémica: cuando confiar en la IA nos vuelve ciegos a sus errores]]></title>
+    <link>https://gonmay.com/post/282/la-paradoja-de-la-supervision-epistemica-cuando-confiar-en-la-ia-nos-vuelve-ciegos-a-sus-errores/</link>
+    <guid isPermaLink="true">https://gonmay.com/post/282/la-paradoja-de-la-supervision-epistemica-cuando-confiar-en-la-ia-nos-vuelve-ciegos-a-sus-errores/</guid>
+    <pubDate>Sat, 22 Aug 2026 00:00:00 GMT</pubDate>
+    <description><![CDATA[¿Cómo ajusta su atención? La evidencia experimental sugiere que el corrector tenderá a confiar en la IA, reduciendo su nivel de escrutinio, precisamente porque la IA ha demostrado ser fiable. Pero esta confianza es epistémicamente frágil: cuando la IA comete un error, el corrector no tiene las herra...]]></description>
+    <category><![CDATA[ia, epistemología, supervisión, sesgo cognitivo, trabajo]]></category>
+  </item>
   <item>
     <title><![CDATA[El fin de la jerarquía: Cómo la IA disuelve la empresa tradicional]]></title>
     <link>https://gonmay.com/post/342/el-fin-de-la-jerarquia-como-la-ia-disuelve-la-empresa-tradicional/</link>
