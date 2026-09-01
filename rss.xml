@@ -6,9 +6,17 @@
     <description>Exploración de la condición humana frente al avance algorítmico.</description>
     <language>es-ES</language>
     <atom:link href="https://gonmay.com/rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 29 Aug 2026 09:02:41 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 07:48:57 GMT</lastBuildDate>
     <managingEditor>contacto@gonmay.com (P. Anthony Gonmay)</managingEditor>
     
+  <item>
+    <title><![CDATA[La empresa algorítmica: velocidad sin visión, la trampa de la adaptación reactiva]]></title>
+    <link>https://gonmay.com/post/358/la-empresa-algoritmica-velocidad-sin-vision-la-trampa-de-la-adaptacion-reactiva/</link>
+    <guid isPermaLink="true">https://gonmay.com/post/358/la-empresa-algoritmica-velocidad-sin-vision-la-trampa-de-la-adaptacion-reactiva/</guid>
+    <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
+    <description><![CDATA[El algoritmo reacciona solo cuando la señal supera un umbral predefinido, ignorando tendencias débiles pero significativas. En una empresa algorítmica, la detección de un competidor con precio 30% inferior desencadena una cascada automática: el agente de precios recalcula, marketing prepara campañas...]]></description>
+    <category><![CDATA[algoritmos, empresa algorítmica, adaptación, velocidad, ceguera estratégica]]></category>
+  </item>
   <item>
     <title><![CDATA[El poder oculto de la supuesta transparencia]]></title>
     <link>https://gonmay.com/post/385/el-poder-oculto-de-la-supuesta-transparencia/</link>
