@@ -6,9 +6,17 @@
     <description>Exploración de la condición humana frente al avance algorítmico.</description>
     <language>es-ES</language>
     <atom:link href="https://gonmay.com/rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 03 Sep 2026 07:10:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 06:57:19 GMT</lastBuildDate>
     <managingEditor>contacto@gonmay.com (P. Anthony Gonmay)</managingEditor>
     
+  <item>
+    <title><![CDATA[La economía de la predicción: cuando la eficiencia deja de ser ventaja]]></title>
+    <link>https://gonmay.com/post/218/la-economia-de-la-prediccion-cuando-la-eficiencia-deja-de-ser-ventaja/</link>
+    <guid isPermaLink="true">https://gonmay.com/post/218/la-economia-de-la-prediccion-cuando-la-eficiencia-deja-de-ser-ventaja/</guid>
+    <pubDate>Sat, 05 Sep 2026 00:00:00 GMT</pubDate>
+    <description><![CDATA[El problema no es que la IA sea demasiado eficiente, sino que nuestras instituciones fueron diseñadas para gestionar la fricción. La economía neoclásica asume que los recursos son limitados y que optimizar consiste en asignarlos productivamente. Pero, ¿qué ocurre cuando la capacidad de optimizar es,...]]></description>
+    <category><![CDATA[AI, economics, prediction, uncertainty, value]]></category>
+  </item>
   <item>
     <title><![CDATA[La IA y la Descapitalización Cognitiva de la Empresa: ¿El Fin del Conocimiento como Ventaja Competitiva?]]></title>
     <link>https://gonmay.com/post/184/la-ia-y-la-descapitalizacion-cognitiva-de-la-empresa-el-fin-del-conocimiento-como-ventaja-competitiva/</link>
