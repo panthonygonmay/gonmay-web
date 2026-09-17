@@ -6,9 +6,17 @@
     <description>Exploración de la condición humana frente al avance algorítmico.</description>
     <language>es-ES</language>
     <atom:link href="https://gonmay.com/rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 15 Sep 2026 07:43:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 07:38:58 GMT</lastBuildDate>
     <managingEditor>contacto@gonmay.com (P. Anthony Gonmay)</managingEditor>
     
+  <item>
+    <title><![CDATA[La empresa algorítmica unipersonal: el espejismo de la autonomía en la era de la reintermediación corporativa]]></title>
+    <link>https://gonmay.com/post/344/la-empresa-algoritmica-unipersonal-el-espejismo-de-la-autonomia-en-la-era-de-la-reintermediacion-corporativa/</link>
+    <guid isPermaLink="true">https://gonmay.com/post/344/la-empresa-algoritmica-unipersonal-el-espejismo-de-la-autonomia-en-la-era-de-la-reintermediacion-corporativa/</guid>
+    <pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
+    <description><![CDATA[Alex utiliza GPT-4, un modelo desarrollado por OpenAI, una corporación valorada en decenas de miles de millones de dólares. Utiliza Stripe para procesar pagos, una empresa con miles de empleados. Utiliza AWS para alojar su aplicación, una división de Amazon que emplea a decenas de miles de personas....]]></description>
+    <category><![CDATA[algoritmo, corporación, infraestructura, dependencia, autonomía]]></category>
+  </item>
   <item>
     <title><![CDATA[El Progreso Bajo el Yugo de la Guerra: La Automatización como Herencia de la Violencia]]></title>
     <link>https://gonmay.com/post/156/el-progreso-bajo-el-yugo-de-la-guerra-la-automatizacion-como-herencia-de-la-violencia/</link>
