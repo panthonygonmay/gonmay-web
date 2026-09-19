@@ -2,17 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://gonmay.com/</loc>
-    <lastmod>2026-09-17</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://gonmay.com/about/</loc>
-    <lastmod>2026-09-17</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
+  <url>
+    <loc>https://gonmay.com/post/78/la-friccion-como-motor-del-alma-por-que-el-error-humano-es-mas-valioso-que-la-perfeccion-algoritmica/</loc>
+    <lastmod>2026-09-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
   <url>
     <loc>https://gonmay.com/post/344/la-empresa-algoritmica-unipersonal-el-espejismo-de-la-autonomia-en-la-era-de-la-reintermediacion-corporativa/</loc>
     <lastmod>2026-09-17</lastmod>
