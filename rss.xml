@@ -6,9 +6,17 @@
     <description>Exploración de la condición humana frente al avance algorítmico.</description>
     <language>es-ES</language>
     <atom:link href="https://gonmay.com/rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 03 Oct 2026 08:05:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 08:58:22 GMT</lastBuildDate>
     <managingEditor>contacto@gonmay.com (P. Anthony Gonmay)</managingEditor>
     
+  <item>
+    <title><![CDATA[Soberanía computacional: el arte de elegir tus cadenas]]></title>
+    <link>https://gonmay.com/post/396/soberania-computacional-el-arte-de-elegir-tus-cadenas/</link>
+    <guid isPermaLink="true">https://gonmay.com/post/396/soberania-computacional-el-arte-de-elegir-tus-cadenas/</guid>
+    <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
+    <description><![CDATA[La soberanía computacional no es un objetivo binario que se alcanza o no; es un espectro en el que los estados pueden posicionarse en diferentes grados de independencia en diferentes capas. Un estado puede lograr independencia en la capa de modelos mientras sigue dependiendo en la capa de infraestru...]]></description>
+    <category><![CDATA[soberanía computacional, dependencia tecnológica, geopolítica, infraestructura, modelos de IA]]></category>
+  </item>
   <item>
     <title><![CDATA[La IA como ente cognitivo autónomo: ¿Un nuevo factor de producción?]]></title>
     <link>https://gonmay.com/post/139/la-ia-como-ente-cognitivo-autonomo-un-nuevo-factor-de-produccion/</link>
