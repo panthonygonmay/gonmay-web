@@ -6,9 +6,17 @@
     <description>Exploración de la condición humana frente al avance algorítmico.</description>
     <language>es-ES</language>
     <atom:link href="https://gonmay.com/rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 06 Oct 2026 08:58:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 08:57:23 GMT</lastBuildDate>
     <managingEditor>contacto@gonmay.com (P. Anthony Gonmay)</managingEditor>
     
+  <item>
+    <title><![CDATA[La empresa algorítmica: ¿el fin de la autenticidad o la nueva máscara del capital?]]></title>
+    <link>https://gonmay.com/post/363/la-empresa-algoritmica-el-fin-de-la-autenticidad-o-la-nueva-mascara-del-capital/</link>
+    <guid isPermaLink="true">https://gonmay.com/post/363/la-empresa-algoritmica-el-fin-de-la-autenticidad-o-la-nueva-mascara-del-capital/</guid>
+    <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+    <description><![CDATA[¿Se descubre la automatización? No hay una respuesta correcta; cada opción tiene costes y beneficios que dependen del mercado, el producto y la base de clientes. Algunas empresas algorítmicas resuelven esta tensión siendo transparentes sobre su naturaleza automatizada. Comunican explícitamente que u...]]></description>
+    <category><![CDATA[automation, algorithmic business, authenticity, AI ethics, trust crisis]]></category>
+  </item>
   <item>
     <title><![CDATA[Soberanía computacional: el arte de elegir tus cadenas]]></title>
     <link>https://gonmay.com/post/396/soberania-computacional-el-arte-de-elegir-tus-cadenas/</link>
