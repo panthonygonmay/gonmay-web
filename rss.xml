@@ -6,9 +6,17 @@
     <description>Exploración de la condición humana frente al avance algorítmico.</description>
     <language>es-ES</language>
     <atom:link href="https://gonmay.com/rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 15 Oct 2026 07:25:52 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 06:56:52 GMT</lastBuildDate>
     <managingEditor>contacto@gonmay.com (P. Anthony Gonmay)</managingEditor>
     
+  <item>
+    <title><![CDATA[La automatización no libera: intensifica el trabajo y genera desigualdad]]></title>
+    <link>https://gonmay.com/post/159/la-automatizacion-no-libera-intensifica-el-trabajo-y-genera-desigualdad/</link>
+    <guid isPermaLink="true">https://gonmay.com/post/159/la-automatizacion-no-libera-intensifica-el-trabajo-y-genera-desigualdad/</guid>
+    <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
+    <description><![CDATA[No es que la afirmación sea falsa en sí misma. Es que es peligrosamente simplista. Equivale a decir que amputar una pierna crea la necesidad de una prótesis. Es una verdad técnica, sí, pero una verdad incompleta y, por tanto, engañosa. La creación de empleo no compensa automáticamente la destrucción...]]></description>
+    <category><![CDATA[automatización, empleo, desigualdad, precariedad, algoritmos]]></category>
+  </item>
   <item>
     <title><![CDATA[El espejismo del arbitraje humano en la era algorítmica]]></title>
     <link>https://gonmay.com/post/348/el-espejismo-del-arbitraje-humano-en-la-era-algoritmica/</link>
