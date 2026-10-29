@@ -6,9 +6,17 @@
     <description>Exploración de la condición humana frente al avance algorítmico.</description>
     <language>es-ES</language>
     <atom:link href="https://gonmay.com/rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 27 Oct 2026 07:51:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 08:27:54 GMT</lastBuildDate>
     <managingEditor>contacto@gonmay.com (P. Anthony Gonmay)</managingEditor>
     
+  <item>
+    <title><![CDATA[La ilusión de la validación cruzada: por qué los algoritmos no pueden corregir sus propios sesgos]]></title>
+    <link>https://gonmay.com/post/353/la-ilusion-de-la-validacion-cruzada-por-que-los-algoritmos-no-pueden-corregir-sus-propios-sesgos/</link>
+    <guid isPermaLink="true">https://gonmay.com/post/353/la-ilusion-de-la-validacion-cruzada-por-que-los-algoritmos-no-pueden-corregir-sus-propios-sesgos/</guid>
+    <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
+    <description><![CDATA[En la empresa algorítmica, solo se detectan los errores que los protocolos de validación están diseñados para detectar. Los errores no previstos simplemente pasan desapercibidos hasta que causan daño. El mecanismo fundamental de control de calidad es la validación cruzada algorítmica: cada output pr...]]></description>
+    <category><![CDATA[algorítmico, validación cruzada, sesgo, epistemología, crítica]]></category>
+  </item>
   <item>
     <title><![CDATA[El tirano digital: cuando el fundador cree mandar pero los algoritmos deciden]]></title>
     <link>https://gonmay.com/post/365/el-tirano-digital-cuando-el-fundador-cree-mandar-pero-los-algoritmos-deciden/</link>
