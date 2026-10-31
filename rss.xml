@@ -6,9 +6,17 @@
     <description>Exploración de la condición humana frente al avance algorítmico.</description>
     <language>es-ES</language>
     <atom:link href="https://gonmay.com/rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 29 Oct 2026 08:27:54 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 08:25:23 GMT</lastBuildDate>
     <managingEditor>contacto@gonmay.com (P. Anthony Gonmay)</managingEditor>
     
+  <item>
+    <title><![CDATA[El encuadre invisible: cómo los modelos de IA imponen su sesgo sin negociación]]></title>
+    <link>https://gonmay.com/post/386/el-encuadre-invisible-como-los-modelos-de-ia-imponen-su-sesgo-sin-negociacion/</link>
+    <guid isPermaLink="true">https://gonmay.com/post/386/el-encuadre-invisible-como-los-modelos-de-ia-imponen-su-sesgo-sin-negociacion/</guid>
+    <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
+    <description><![CDATA[La atención, tanto humana como algorítmica, es inherentemente selectiva: no puede atender a todo, y por lo tanto debe priorizar. La cuestión no es si el modelo sesga la atención, sino cómo lo hace y en beneficio de quién. Para entender este mecanismo, podemos recurrir al concepto de framing que desa...]]></description>
+    <category><![CDATA[framing, AI bias, Lakoff, foundation models, algorithmic attention]]></category>
+  </item>
   <item>
     <title><![CDATA[La ilusión de la validación cruzada: por qué los algoritmos no pueden corregir sus propios sesgos]]></title>
     <link>https://gonmay.com/post/353/la-ilusion-de-la-validacion-cruzada-por-que-los-algoritmos-no-pueden-corregir-sus-propios-sesgos/</link>
