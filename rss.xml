@@ -6,9 +6,17 @@
     <description>Exploración de la condición humana frente al avance algorítmico.</description>
     <language>es-ES</language>
     <atom:link href="https://gonmay.com/rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 03 Nov 2026 09:32:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 09:29:44 GMT</lastBuildDate>
     <managingEditor>contacto@gonmay.com (P. Anthony Gonmay)</managingEditor>
     
+  <item>
+    <title><![CDATA[El piloto automático corporativo: Cuando la empresa cree decidir pero solo obedece]]></title>
+    <link>https://gonmay.com/post/298/el-piloto-automatico-corporativo-cuando-la-empresa-cree-decidir-pero-solo-obedece/</link>
+    <guid isPermaLink="true">https://gonmay.com/post/298/el-piloto-automatico-corporativo-cuando-la-empresa-cree-decidir-pero-solo-obedece/</guid>
+    <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
+    <description><![CDATA[La pérdida de autonomía no es percibida por los gestores porque la dependencia epistémica es opaca. Los gestores ven outputs de alta calidad —informes detallados, predicciones precisas, recomendaciones estratégicas— y asumen que reflejan la capacidad cognitiva de la empresa. No ven la infraestructur...]]></description>
+    <category><![CDATA[IA, dependencia epistémica, caja negra, autonomía empresarial, filosofía de la tecnología]]></category>
+  </item>
   <item>
     <title><![CDATA[La atención como única mercancía: hacia una plusvalía cognitiva en la era post-laboral]]></title>
     <link>https://gonmay.com/post/102/la-atencion-como-unica-mercancia-hacia-una-plusvalia-cognitiva-en-la-era-post-laboral/</link>
