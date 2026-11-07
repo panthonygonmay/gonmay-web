@@ -6,9 +6,17 @@
     <description>Exploración de la condición humana frente al avance algorítmico.</description>
     <language>es-ES</language>
     <atom:link href="https://gonmay.com/rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 05 Nov 2026 09:29:44 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 08:46:48 GMT</lastBuildDate>
     <managingEditor>contacto@gonmay.com (P. Anthony Gonmay)</managingEditor>
     
+  <item>
+    <title><![CDATA[La asimetría estructural: cómo la empresa algorítmica es el nuevo siervo de la corporación]]></title>
+    <link>https://gonmay.com/post/345/la-asimetria-estructural-como-la-empresa-algoritmica-es-el-nuevo-siervo-de-la-corporacion/</link>
+    <guid isPermaLink="true">https://gonmay.com/post/345/la-asimetria-estructural-como-la-empresa-algoritmica-es-el-nuevo-siervo-de-la-corporacion/</guid>
+    <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
+    <description><![CDATA[La empresa algorítmica no es una alternativa a la corporación tradicional, sino su complemento. La corporación tradicional proporciona la infraestructura estable y masiva; la empresa algorítmica proporciona la agilidad y la especialización. Ambas formas coexisten en una relación de dependencia asimé...]]></description>
+    <category><![CDATA[economía algorítmica, poder corporativo, startups, infraestructura, dependencia asimétrica]]></category>
+  </item>
   <item>
     <title><![CDATA[El piloto automático corporativo: Cuando la empresa cree decidir pero solo obedece]]></title>
     <link>https://gonmay.com/post/298/el-piloto-automatico-corporativo-cuando-la-empresa-cree-decidir-pero-solo-obedece/</link>
