@@ -6,9 +6,17 @@
     <description>Exploración de la condición humana frente al avance algorítmico.</description>
     <language>es-ES</language>
     <atom:link href="https://gonmay.com/rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 14 Nov 2026 08:58:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 10:43:28 GMT</lastBuildDate>
     <managingEditor>contacto@gonmay.com (P. Anthony Gonmay)</managingEditor>
     
+  <item>
+    <title><![CDATA[La IA nunca será experta: el mito del conocimiento sin experiencia]]></title>
+    <link>https://gonmay.com/post/264/la-ia-nunca-sera-experta-el-mito-del-conocimiento-sin-experiencia/</link>
+    <guid isPermaLink="true">https://gonmay.com/post/264/la-ia-nunca-sera-experta-el-mito-del-conocimiento-sin-experiencia/</guid>
+    <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+    <description><![CDATA[La empresa ya no necesita un contable, un ingeniero y un abogado; puede tener una IA que haga el trabajo de los tres con una fracción del coste. Pero aquí hay una sutileza crítica que la literatura sobre automatización tiende a pasar por alto. La IA puede simular expertise, pero no puede desarrollar...]]></description>
+    <category><![CDATA[AI, expertise, automation, knowledge work, contextual knowledge, human vs machine]]></category>
+  </item>
   <item>
     <title><![CDATA[El error como lujo: la restauración de la imperfección humana frente a la eficiencia vacía]]></title>
     <link>https://gonmay.com/post/120/el-error-como-lujo-la-restauracion-de-la-imperfeccion-humana-frente-a-la-eficiencia-vacia/</link>
