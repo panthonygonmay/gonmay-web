@@ -6,9 +6,17 @@
     <description>Exploración de la condición humana frente al avance algorítmico.</description>
     <language>es-ES</language>
     <atom:link href="https://gonmay.com/rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 17 Nov 2026 10:43:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 10:19:40 GMT</lastBuildDate>
     <managingEditor>contacto@gonmay.com (P. Anthony Gonmay)</managingEditor>
     
+  <item>
+    <title><![CDATA[Soberanía cognitiva: la trampa de la dependencia intelectual en la era de la IA]]></title>
+    <link>https://gonmay.com/post/393/soberania-cognitiva-la-trampa-de-la-dependencia-intelectual-en-la-era-de-la-ia/</link>
+    <guid isPermaLink="true">https://gonmay.com/post/393/soberania-cognitiva-la-trampa-de-la-dependencia-intelectual-en-la-era-de-la-ia/</guid>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+    <description><![CDATA[Ningún estado debería tolerar vulnerabilidades estratégicas. Si un proveedor extranjero controla los modelos que una economía utiliza para sus funciones cognitivas críticas, ese proveedor — y el estado en el que está ubicado — tiene un poder potencialmente desestabilizador. Floridi (2020) lo llamó s...]]></description>
+    <category><![CDATA[soberanía digital, dependencia cognitiva, IA, geopolítica, Floridi, Crawford]]></category>
+  </item>
   <item>
     <title><![CDATA[La IA nunca será experta: el mito del conocimiento sin experiencia]]></title>
     <link>https://gonmay.com/post/264/la-ia-nunca-sera-experta-el-mito-del-conocimiento-sin-experiencia/</link>
