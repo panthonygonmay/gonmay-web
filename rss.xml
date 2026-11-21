@@ -6,9 +6,17 @@
     <description>Exploración de la condición humana frente al avance algorítmico.</description>
     <language>es-ES</language>
     <atom:link href="https://gonmay.com/rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 19 Nov 2026 10:19:40 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 09:49:07 GMT</lastBuildDate>
     <managingEditor>contacto@gonmay.com (P. Anthony Gonmay)</managingEditor>
     
+  <item>
+    <title><![CDATA[La paradoja de la ventaja competitiva en la era de los modelos fundacionales]]></title>
+    <link>https://gonmay.com/post/373/la-paradoja-de-la-ventaja-competitiva-en-la-era-de-los-modelos-fundacionales/</link>
+    <guid isPermaLink="true">https://gonmay.com/post/373/la-paradoja-de-la-ventaja-competitiva-en-la-era-de-los-modelos-fundacionales/</guid>
+    <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
+    <description><![CDATA[La API de un modelo fundacional recibe datos históricos de ventas y devuelve predicciones de demanda. El modelo, entrenado con datos de miles de minoristas, incorpora patrones que ningún minorista individual podría descubrir. La precisión promedio supera a cualquier sistema propietario, pero está di...]]></description>
+    <category><![CDATA[foundation models, competitive advantage, AI, homogenization, supply chain]]></category>
+  </item>
   <item>
     <title><![CDATA[Soberanía cognitiva: la trampa de la dependencia intelectual en la era de la IA]]></title>
     <link>https://gonmay.com/post/393/soberania-cognitiva-la-trampa-de-la-dependencia-intelectual-en-la-era-de-la-ia/</link>
